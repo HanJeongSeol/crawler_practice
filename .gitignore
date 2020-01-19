@@ -221,6 +221,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# README
+# 수정 파일들
 #*.READMME.md
+#*.Lotto.txt
 # End of https://www.gitignore.io/api/python,pycharm,windows
