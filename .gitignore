@@ -223,5 +223,13 @@ $RECYCLE.BIN/
 
 # 수정 파일들
 *.READMME.md
+
+# 들어가면 안됨
+로그인연습.py
+chromedriver.exe
+Daum_Regular.ttf
+earth.png
+JPype1-0.7.1-cp36-cp36m-win_amd64.whl
+네이버쇼핑.py
 #*.Lotto.txt
 # End of https://www.gitignore.io/api/python,pycharm,windows
