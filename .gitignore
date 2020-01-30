@@ -222,6 +222,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # 수정 파일들
-#*.READMME.md
+*.READMME.md
 #*.Lotto.txt
 # End of https://www.gitignore.io/api/python,pycharm,windows
